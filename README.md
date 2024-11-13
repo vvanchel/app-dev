@@ -4,7 +4,7 @@ My first repository
 
 # 🎬 My Favorite Movie: *Passengers*
 
-![Stranger Things Banner](https://example.com/stranger-things-banner.jpg)
+
 
 ## **Overview**
 **Passengers** is set in a distant future where humanity has begun colonizing other planets. The story follows two passengers, Jim Preston (Chris Pratt) and Aurora Lane (Jennifer Lawrence), on board the Avalon, a spaceship on a 120-year journey to a distant colony planet, Homestead II. All 5,000 passengers and crew are in suspended animation to survive the long journey.
